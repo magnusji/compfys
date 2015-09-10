@@ -1,0 +1,71 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+\usepackage{floatpag}				% Different pagestyles
+\usepackage{amsmath}
+\usepackage{array}	
+\usepackage{booktabs}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{parskip}
+\usepackage{multirow}
+
+
+\begin{document}
+
+\title{Project1}
+
+
+\section*{Intro}
+
+This report is going to look in to 
+
+
+\section*{1}
+
+\subsection*{a}
+Poisson's equation: 
+
+\begin{equation}
+ \nabla^2 \Phi = -4\pi \rho(r)
+\end{equation}
+
+
+Which becomes in one dimension with symmetric $\Phi$ 
+
+\begin{equation}
+\frac{1}{r^2} \frac{d}{dr}(r^2\frac{d\Phi}{dr}) = -4\pi \rho(r)
+\end{equation}
+
+
+Starting by looking at the relation 
+$\textbf{Av} = \tilde{\textbf{b}}$
+
+Where \textbf{A} =
+$$
+\begin{bmatrix}
+2 & -1 & 0 & \ldots & \ldots & 0 \\
+-1 & 2 & -1 & 0 &\ldots & \vdots \\ 
+0 & -1 & 2 & -1 & 0 & \vdots \\
+\vdots & \vdots & \ddots & \ddots & \ddots & \vdots\\ 
+\vdots & \ldots & \ldots & -1 & 2 & -1\\
+0 & \ldots & \ldots & 0 & -1 & 2\\
+\end{bmatrix}
+$$
+
+and \textbf{v} = $$\begin{bmatrix}
+v_1\\
+v_2\\
+v_3\\
+\ldots\\
+v_{n-1}\\
+v_{n}\\
+\end{bmatrix}
+$$
+\end{document}
