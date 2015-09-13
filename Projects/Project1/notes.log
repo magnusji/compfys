@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.9)  10 SEP 2015 15:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.9)  10 SEP 2015 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -533,7 +533,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./notes.aux) ) 
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./notes.aux) ) 
 Here is how much of TeX's memory you used:
  4500 strings out of 494424
  62568 string characters out of 6165347
@@ -542,21 +542,21 @@ Here is how much of TeX's memory you used:
  16000 words of font info for 42 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  42i,9n,38p,320b,115s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/mag
-nusji/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/magnusji/.t
-exmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/magnusji/.texmf-var
-/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/magnusji/.texmf-var/fonts/p
-k/ljfour/jknappen/ec/ecbx1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on notes.pdf (1 page, 69744 bytes).
+ </home
+/magnusji/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/magnusj
+i/.texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/magnusji/.texmf
+-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/magnusji/.texmf-var/fon
+ts/pk/ljfour/jknappen/ec/ecbx1728.600pk></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
+8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on notes.pdf (2 pages, 71619 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 103 PDF objects out of 1000 (max. 8388607)
+ 43 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
