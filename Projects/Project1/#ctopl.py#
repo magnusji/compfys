@@ -1,8 +1,0 @@
-#for plotting from file
-from pylab import *
-
-infile = open('build-project1-Desktop-Debug/ctopl.txt','r')
-
-for line in infile:
-    lines =infile.readlines()
-    
